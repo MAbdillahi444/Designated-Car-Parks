@@ -19,7 +19,7 @@ Shoppers: Customers visiting malls or shopping centers who wish to have good par
 
 ### Use Cases
 
-| : UC1  | TODO: Locate nearest car park | 
+| : UC1  |  Locate nearest car park | 
 | -------------------------------------- | ------------------- |
 | Description | :locate nearest car park |
 | Actors | : Daily commuter |
