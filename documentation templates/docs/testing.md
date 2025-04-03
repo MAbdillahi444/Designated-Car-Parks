@@ -17,7 +17,15 @@ Software Testing Standard
 3. Testing cannot show that bugs don't exist.
 4. The more bugs you find, the more bugs there are.
 5. Not all the bugs you find will be fixed.
-6. Product specifications are never final. 
+6. Product specifications are never final.
+
+
+Verification and Validation
+
+Software testing operates together with verification and validation (V&V) procedures. The act of testing items including software for their adherence to their specified standards is known as verification. Among verification methods used for testing stands software testing along with reviews inspections and walkthroughs. The validation method checks if the user desired elements align with the original specification.
+
+The product needs verification testing to show whether the program meets its specification. Our objective is to verify whether we assembled the correct software system according to customer requirements. Does what the customer need to have? 
+
 
  
 
