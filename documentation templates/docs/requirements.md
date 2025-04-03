@@ -18,9 +18,7 @@ Conference Attendees: Professionals who are attending meetings, seminars, and wo
 Shoppers: Customers visiting malls or shopping centers who wish to have good parking access and good rates
 
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
+
 | : UC1  | TODO: Locate nearest car park | 
 | -------------------------------------- | ------------------- |
 | Description | :locate nearest car park |
@@ -75,9 +73,7 @@ Issues: Any unresolved challenges related to this use case.
 
 
 
-TODO: Your Use-Case diagram should include all use-cases.
 
-![Insert your Use-Case Diagram Here](images/use-case.png)
 
 ## Software Requirements Specification
 ### Functional requirements
@@ -88,8 +84,6 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 
 ### Non-Functional Requirements
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
 NFR1 The system shows available parking spots located in specified geographical coordinates.
 NRF2 The application interface provides full support for mobile and desktop browsers.
