@@ -1,16 +1,21 @@
 # Implementation
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
+This chapter introduces how this software is implemented. Implementation contains all details which are required to make the system operational. We have also discussed the development, tools and technologies to implement the system.
 
 ## Project Structure
-TODO: Provide an outline of the project folder structure and the role of each file within it.
-provide a table listing the number of jslint warnings/reports for each module.
+Tools and Technologies
+The following tools and technologies are used to build the software.
+•	HTML
+•	CSS
+•	JavaScript
+•	Bristol Open Data API
 
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
 
-![Insert your component Diagram here](images/component.png)
+![image](https://github.com/user-attachments/assets/c7d9d66d-68ff-4316-bffb-6522a4950a8d)
+
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data
