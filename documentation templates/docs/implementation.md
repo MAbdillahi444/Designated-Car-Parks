@@ -1,7 +1,7 @@
 # Implementation
 
 ## Introduction
-This chapter introduces how this software is implemented. Implementation contains all details which are required to make the system operational. We have also discussed the development, tools and technologies to implement the system.
+This chapter introduces how this software is implemented. Implementation contains all the details which are required to make the system operational. We have also discussed the development, tools and technologies to implement the system.
 
 ## Project Structure
 Tools and Technologies
@@ -25,4 +25,4 @@ TODO: Document each query to Bristol Open Data
 
 
 
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
+TODO: Explain how each use case works by providing step-by-step screenshots for each use case. This should be based on a tested scenario.
