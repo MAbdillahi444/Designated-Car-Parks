@@ -24,7 +24,7 @@ Verification and Validation
 
 Software testing operates together with verification and validation (V&V) procedures. The act of testing items including software for their adherence to their specified standards is known as verification. Among verification methods used for testing stands software testing along with reviews inspections and walkthroughs. The validation method checks if the user desired elements align with the original specification.
 
-The product needs verification testing to show whether the program meets its specifications. Our objective is to verify whether we assembled the correct software system according to customer requirements. Does what the customer needs to have? 
+The product needs verification testing to show whether the program meets its specifications. Our objective is to verify whether we assembled the correct software system according to customer requirements. Does what the customer needs to have?
 
 
  
