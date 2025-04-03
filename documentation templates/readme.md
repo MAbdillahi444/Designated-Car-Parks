@@ -1,5 +1,5 @@
 Designated Car Parks
-TODO: Brief outline of your project describing the dataset and a link to it.
+The objective of Interactive Parking Finder is to help drivers locate parking spaces since it solves their primary difficulty in urban areas. By utilizing Bristol Open Data 'Designated Parking Spaces' dataset, the application help users locate nearby parking spots effectively and minimizing parking search time
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
