@@ -37,13 +37,14 @@ TODO: For each test described above, indicate the current status.
 Create a requirements traceability matrix to validate the completeness of the product.
 
 | Use-Case ID | Requirement ID | Test Case | Status |
-| test case 1 | UCID1 | Ensure the application correctly retrieves and displays car parks based on a valid location search. | passed|
+
+| Test case 1 | UCID1 | Ensure the application correctly retrieves and displays car parks based on a valid location search.|Passed|
 | Test case 2 | UCID2 | Confirm that the application appropriately handles an invalid location search. | Passed|
 | Test case 3 | UCID3 | Verify that the application correctly filters car parks by a valid type selection. | Passed |
 | Test case 4 | UCID4 | Verify that selecting a car park displays detailed information| Passed |
-| Test case 5 | UCID5 |est how quickly the application responds to user interactions, such as searching and filtering. | Passed |
+| Test case 5 | UCID5 | Check how quickly the application responds to user interactions, such as searching and filtering.| Passed |
 | Test case 6 | UCID5 | Confirm that the application functions correctly across major web browsers.| Passed |
-| Test case 7 | UCID5 |Assess how well the application operates on different mobile devices. | Passed |
+| Test case 7 | UCID5 |Assess how well the application operates on different mobile devices.| Passed |
 
 
 
