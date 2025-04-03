@@ -11,7 +11,9 @@ TODO: Write brief user stories to explain how various actors would interact with
 
 ### Actors
 Daily Commuters: People who travel on a regular basis and require affordable, convenient parking facilities near employment locations or transit points.
+
 Visitors: Individuals who have traveled to a new location for leisure or errands, seeking where to park as well as rates.
+
 Conference Attendees: Professionals who are attending meetings, seminars, and workshops who need nearby parking as close to venues as possible. 
 Shoppers: Customers visiting malls or shopping centers who wish to have good parking access and good rates
 
