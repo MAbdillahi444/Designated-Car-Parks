@@ -33,6 +33,28 @@ TODO: Describe each use case (at least one per team member).
 
 5. Display the nearest car parks to the user.
 
+   | **Variations** | :Possible alternative steps in the process. |
+| **Non-functional** | : Performance, security, and usability aspects the system must meet. |
+| **Issues** | :List of issues that remain to be resolved |
+
+
+
+| : UC2  | : Locate nearest car park | 
+| -------------------------------------- | ------------------- |
+| **Description** | : Locate nearest car park for Confrence attendee |
+| **Actors** | : Conference attendee |
+| **Assumptions** | : Browser has location by phone.
+| **Steps** | : 1. Display available car parks in the area of the conference attendee
+                    2. Request user permission to access location.
+                    3. User grants permission for geolocation.
+                    4.Retrieve nearest car parks from the data base
+                    5. Display the nearest car parks to the user.
+| **Variations** | :Possible alternative steps in the process. |
+| **Non-functional** | : Performance, security, and usability aspects the system must meet. |
+| **Issues** | :List of issues that remain to be resolved |
+
+
+
 
 Variations: Possible alternative steps in the process.
 
@@ -57,14 +79,15 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
+1. The system shows available parking spots located in specified geographical coordinates.
+2. Parking spots become visible after a click on any available spot.
+3. The application can present directions from a user's spot to selected parking areas. 
+
 
 
 ### Non-Functional Requirements
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
-Indicate which UC the requirement comes from.
+NFR1 The system shows available parking spots located in specified geographical coordinates.
+NRF2 The application interface provides full support for mobile and desktop browsers.
