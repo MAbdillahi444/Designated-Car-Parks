@@ -19,6 +19,30 @@ Shoppers: Customers visiting malls or shopping centers who wish to have good par
 TODO: Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
     Summarise these using the use-case template below.
+| : UC1  | TODO: Locate nearest car park | 
+| -------------------------------------- | ------------------- |
+| Description | :locate nearest car park |
+| Actors | : Daily commuter |
+| Assumptions | : Browser has by phone.
+| Steps | : 1. View car parks in the area  
+2. Request user permission to access location.
+
+3.User grants permission for geolocation.
+
+4. Retrieve nearest car parks from the database.
+
+5. Display the nearest car parks to the user.
+
+
+Variations: Possible alternative steps in the process.
+
+
+Non-functional Requirements: Performance, security, and usability aspects the system must meet.
+
+
+Issues: Any unresolved challenges related to this use case.
+
+
 
     
 
