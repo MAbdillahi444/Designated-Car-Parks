@@ -24,14 +24,9 @@ The application primarily focuses on identifying parking locations within a user
 A context diagram represents all external entities that may interact with a system. It pictures the system at the center, with no details of its interior structure, surrounded by all its interacting systems, environments and activities.
 
 Key Components
-i.	Center Circle 
-a.	Parking Finder - Application
-ii.	External Entities 
-a.	User
-b.	API (Source of Data)
-c.	Leafjet.js (Library for Mapping)
-iii.	Arrows 
-a.	To show the flow of the application
+	Center Circle: Parking Finder - Application
+	External Entities : User, API (Source of Data), Leafjet.js (Library for Mapping)
+Arrows, To show the flow of the application
 
 
 ![Insert your Context Diagram Here](images/context.png)
