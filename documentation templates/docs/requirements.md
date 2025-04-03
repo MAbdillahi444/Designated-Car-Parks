@@ -77,9 +77,9 @@ Issues: Any unresolved challenges related to this use case.
 
 ## Software Requirements Specification
 ### Functional requirements
-1. The system shows available parking spots located in specified geographical coordinates.
-2. Parking spots become visible after a click on any available spot.
-3. The application can present directions from a user's spot to selected parking areas. 
+RF1 The system shows available parking spots located in specified geographical coordinates.
+RF2 Parking spots become visible after a click on any available spot.
+RF3 The application can present directions from a user's spot to selected parking areas. 
 
 
 
