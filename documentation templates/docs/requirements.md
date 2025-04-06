@@ -4,18 +4,20 @@
 
 ### User stories
 TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
-    As a student, I would like to find the most affordable car parks nearest to me 
-    As a parent, I would want to have step-by-step directions to the car park
-    As a teacher, I would like to find the closest car parks to me
+    Express these in the form from agile development:-
+
+As daily commuters, our role is to find a quick and easy designated parking spot to make our commute easier as we are people who travel regularly the benefit of this will be it will direct them straight to an open free parking space.
+
+
+As conference atendees, our role is to  access nearby parking spaces next to venues/buildings we work at attend meetings and seminars as we are proffesionals working the benefit of this will be keeping people satisfied which will spread awarness about our app.
+
+
+As the Bristol City Council, my role is to check all designated parking spaces on the app to gather data the benfit of this will show what needs imporvements and will show our merits.
 
 ### Actors
 Daily Commuters: People who travel regularly and require affordable, convenient parking facilities near employment locations or transit points.
-
-Visitors: Individuals who have travelled to a new location for leisure or errands, seeking where to park as well as rates.
-
 Conference Attendees: Professionals who are attending meetings, seminars, and workshops who need nearby parking as close to venues as possible. 
-Shoppers: Customers visiting malls or shopping centres who wish to have good parking access and good rates
+Bristol City Council member: who needs access to the app for data.
 
 ### Use Cases
 
@@ -52,7 +54,6 @@ Shoppers: Customers visiting malls or shopping centres who wish to have good par
 | **Variations** | : Possible alternative steps in the process. |
 | **Non-functional** | : Performance, security, and usability aspects the system must meet. |
 | **Issues** | :List of issues that remain to be resolved |
-
 
 
 
