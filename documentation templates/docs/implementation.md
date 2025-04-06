@@ -22,7 +22,28 @@ The following tools and technologies are used to build the software.
 Reasons to use these tools
 HTML, CSS and JavaScript are used because of their strong general compatibility and user-friendly attributes as well as programming flexibility. The application depends heavily on HTML for its structure and content while CSS gives absolute control over design elements alongside responsiveness features and JavaScript delivers necessary dynamic interactions together with Application Programming Interface features that make real-time functions possible.
 
-
+![image](https://github.com/user-attachments/assets/ebbf786f-331b-4afc-9ff7-89cf8c9cd597)
+Use Case 1: Front End Layer
+User views and interacts with the charging station interface.
+Main Flow:
+User opens the central hub on the app.
+System displays charging station status and availability.
+User selects a station for more information.
+System displays a map interface with locations and real-time availability.
+User initiates a charging session by selecting a parking spot.
+System allows the user to view and manage the session.
+User manages profile settings, payment methods, and usage history through the profile management feature.
+Postcondition: The user can successfully interact with the system and complete the task.
+Use Case 2: Analytic and Reporting
+Actor: Admin/Analyst
+Goal: Generate and view reports on charging station usage and performance.
+Main Flow:
+Admin logs into the analytics section of the system.
+System collects data on station usage, such as frequency and duration of usage.
+Admin generates a report showing charging station utilization.
+Admin reviews performance metrics in order to evaluate the efficiency of the stations.
+Admin exports or shares the report accordingly.
+Postcondition: The report is created, reviewed, and potentially acted on based on insights from the data.
 
 
 
@@ -31,5 +52,5 @@ TODO: Document each query to Bristol Open Data
 
 
 
+Mohamed Abdillahi
 
-TODO: Explain how each use case works by providing step-by-step screenshots for each use case. This should be based on a tested scenario.
