@@ -4,7 +4,7 @@
 On this page, we’re presenting our business case for an app that assists users in finding the best designated parking spots. By ensuring that users can easily locate appropriate parking, we’ll create a detailed plan that covers the problem statement, the benefits to the business, the options we’ve explored, the risks we anticipate, and the scope of the project. This plan will help us identify any possible gaps or issues, making sure the app aligns with what users really need. If we don’t have a clear plan, we might face challenges that could hinder the app’s effectiveness for our users. The objective of Interactive Parking Finder is to help drivers locate parking spaces since it solves their primary difficulty in urban areas. By utilizing Bristol Open Data 'Designated Parking Spaces' dataset, the application helps users locate nearby parking spots effectively and minimises parking search time.
 
 ### Problem statement
-The issue of car parking in Bristol has become a significant challenge for both residents and visitors, with increased demand for spaces in an urban setting. The challenge for Bristol City Council is to balance the demands of local companies, commuters, and residents with managing the city's limited parking supplies. A problem statement states the problems that me and Ayub have noticed. By stating these problems beforehand, we can more effectively plan and come up with solutions before they become bigger headaches. 
+The issue of car parking in Bristol has become a significant challenge for both residents and visitors, with increased demand for spaces in an urban setting. The challenge for Bristol City Council is to balance the demands of local companies, commuters, and residents with managing the city's limited parking supplies. A problem statement states the problems that me and Mohamed have noticed. By stating these problems beforehand, we can more effectively plan and come up with solutions before they become bigger headaches. 
 Our Designated Parking Spot business is all about simplifying the process of drivers finding and reserving parking spaces. As cities keep on getting busier and the need for parking keeps on growing, I honestly believe our app is going to be a lifesaver for users as it will enable them to find available parking in no time. As cities seek better traffic and parking management, our application will not only save users time but also cut fuel usage and decrease the annoyance of trying to find a parking spot..
 
 ### Business benefits
@@ -45,4 +45,4 @@ Arrows, To show the flow of the application
 ![image](https://github.com/user-attachments/assets/07e9cacb-fb0d-49a9-85b5-d8381f041575)
 
 
-Mohamed Abdillahi
+Ayub Abdi
