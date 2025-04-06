@@ -16,6 +16,7 @@ User 3 - As the Bristol City Council, my role is to check all designated parking
 ### Actors
 Daily Commuters: People who travel regularly and require affordable, convenient parking facilities near employment locations or transit points.
 Conference Attendees: Professionals who are attending meetings, seminars, and workshops who need nearby parking as close to venues as possible. 
+
 Bristol City Council member: who needs access to the app for data.
 
 ### Use Cases
