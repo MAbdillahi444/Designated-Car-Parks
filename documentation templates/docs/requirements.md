@@ -108,5 +108,5 @@ NFR8: The app must incorporate safety features, such as a straightforward accide
 
 NFR9: The app must be regularly updated to ensure users are informed of available parking spaces, such as real-time availability and status.
 
-AYUB ABDI- requiremtns list use case diagaram and user stories
+AYUB ABDI- requirements list use case diagaram and user stories
 
