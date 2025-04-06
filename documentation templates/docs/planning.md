@@ -12,7 +12,19 @@ Designated parking areas provide procedures and increased safety for the general
 
 ### Options Considered
 What are some other customer options or leading products that address the same needs?
-One other option is the app PayByPhone which addresses the same needs and allows users to find parking around them and also pay for it through the app as well
+One other option is the app PayByPhone which addresses the same needs and allows users to find parking around them and also pay for it through the app as well. 
+
+During the planning process, we should consider various possibilities for our users. Otherwise, we risk creating an app that doesn't really work for them—so they won't find it as useful to use to locate designated parking.
+One main question to ask is: What are some existing apps or services that help users locate parking? Understanding the competition helps us identify what's already working and how we can improve.
+Another important question is: Are the parking spots compatible with all vehicle types? For example, some spots may be too small for larger vehicles. Our app should provide this information clearly.
+
+We’ve also considered: Is the parking spot already occupied? Users need real-time updates on availability to avoid wasting time driving to a full lot.
+Cost is another factor: Is the parking spot free or paid? Users want to know in advance if they need to pay so that they can be prepared.
+
+We also ask: Can users reserve a spot through the app? Booking ahead of time enables users to prepare in advance, especially in crowded areas where parking space is limited.
+
+Finally, we question: Are all listed spots actually free when needed? Correct availability generates trust and makes the application genuinely helpful.
+Taking these options into account, we can construct a reliable, user-friendly parking solution.
 
 ### Expected Risks
 One of the risks would be that we are liable for misinformation. For example, if the user is uses our website and gets fined through incorrect data, they may blame our website. As well as this, mapping errors may frustrate users.
