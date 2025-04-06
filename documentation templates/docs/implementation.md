@@ -23,6 +23,7 @@ Reasons to use these tools
 HTML, CSS and JavaScript are used because of their strong general compatibility and user-friendly attributes as well as programming flexibility. The application depends heavily on HTML for its structure and content while CSS gives absolute control over design elements alongside responsiveness features and JavaScript delivers necessary dynamic interactions together with Application Programming Interface features that make real-time functions possible.
 
 ![image](https://github.com/user-attachments/assets/ebbf786f-331b-4afc-9ff7-89cf8c9cd597)
+
 Use Case 1: Front End Layer
 User views and interacts with the charging station interface.
 Main Flow:
