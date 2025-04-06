@@ -35,9 +35,9 @@ User initiates a charging session by selecting a parking spot.
 System allows the user to view and manage the session.
 User manages profile settings, payment methods, and usage history through the profile management feature.
 Postcondition: The user can successfully interact with the system and complete the task.
+
 Use Case 2: Analytic and Reporting
-Actor: Admin/Analyst
-Goal: Generate and view reports on charging station usage and performance.
+Generate and view reports on charging station usage and performance.
 Main Flow:
 Admin logs into the analytics section of the system.
 System collects data on station usage, such as frequency and duration of usage.
