@@ -48,8 +48,6 @@ Postcondition: The report is created, reviewed, and potentially acted on based o
 
 
 
-## Bristol Open Data API
-TODO: Document each query to Bristol Open Data
 
 
 
